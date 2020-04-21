@@ -46,6 +46,8 @@
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:8.5.35" />
           <element id="library" level="project" name="Maven: org.eclipse.jdt:ecj:3.12.3" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.4.01" />
         </element>
       </element>
       <element id="directory" name="META-INF">
